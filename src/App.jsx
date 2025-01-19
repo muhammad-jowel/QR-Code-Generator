@@ -79,7 +79,7 @@ const App = () => {
         </button>
         {/* Link to credit the developer */}
         <div className="mt-6 text-sm text-gray-500">
-          <a href="https://github.com/muhammad-jowel" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/softdevjowel" target="_blank" rel="noopener noreferrer">
             Developed by Muhammad Jowel
           </a>
         </div>
